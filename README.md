@@ -1,5 +1,5 @@
 
-> Open this page at [https://lidbab.github.io/kompas/](https://lidbab.github.io/kompas/)
+> Open this page at [https://lidbab.github.io/kompas/](https://github.com/lidbab/kompas)
 
 ## Use as Extension
 
